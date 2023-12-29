@@ -17,3 +17,40 @@ body{
     left: 50%;
     border-radius: 5px;
 }
+
+p{
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 400;
+    word-wrap: break-word;
+    text-align: center;
+    line-height: 35px;
+    margin: 30px 0;
+    opacity: 0;
+}
+
+span{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+}
+
+.fade{
+    opacity: 1;
+    transition: opacity 1.5s;
+}
+
+button{
+    display: block;
+    background-color: #fab22e;
+    border: none;
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 600;
+    padding: 12px 25px;
+    margin: 0 auto;
+    cursor: pointer;
+    outline: none;
+}
