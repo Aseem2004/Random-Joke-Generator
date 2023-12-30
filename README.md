@@ -37,3 +37,10 @@
 
 <h2>Contributions</h2>
 <p>Contributions are welcome! If you have ideas to enhance the website or fix issues, feel free to fork the repository and submit a pull request.</p>
+
+<h2>Acknowledgments</h2>
+<p>A special thanks to the creators of <a href="https://jokeapi.dev/" target="_blank">JokeAPI</a> for providing a fantastic API that brings smiles to users around the world. Let the laughter continue! </p>
+   
+<footer>
+<p>Happy coding and laughing! 😄🎉</p>
+</footer>
