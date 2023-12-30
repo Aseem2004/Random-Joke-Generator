@@ -25,4 +25,15 @@
 <p>Navigate to the project directory and open the <code>index.html</code> file in your preferred web browser.</p>
 <h3>3. Enjoy the Humor</h3>
 <p>Witness the magic of humor unfold as you receive a random joke with each page refresh.</p>
- </ul>
+</ul>
+
+ <h2>Technologies Used</h2>
+<ul>
+<li><strong>HTML:</strong> The backbone of the website's structure.</li>
+<li><strong>CSS:</strong> Styling to create an aesthetically pleasing interface.</li>
+<li><strong>JavaScript:</strong> Dynamically fetches and displays jokes from the REST API.</li>
+<li><strong><a href="https://jokeapi.dev/" target="_blank">JokeAPI</a>:</strong> The source of an endless supply of jokes.</li>
+</ul>
+
+<h2>Contributions</h2>
+<p>Contributions are welcome! If you have ideas to enhance the website or fix issues, feel free to fork the repository and submit a pull request.</p>
